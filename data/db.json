@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "A homepage development of XXX company",
+      "details": "Homepage of XXX company--Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque ipsam iure debitis perferendis.",
+      "complete": true,
+      "id": 1
+    },
+    {
+      "title": "A static website hosting in AWS S3",
+      "details": "A static website hosting in AWS S3--Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque ipsam iure debitis perferendis.",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "A Node shopping cart appliction",
+      "details": "A Node shopping cart appliction--Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque ipsam iure debitis perferendis.",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
